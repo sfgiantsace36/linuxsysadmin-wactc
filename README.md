@@ -32,7 +32,7 @@ Our Current Focus
 *    We'll be moving a box with existing server and routing software from one room to another room and connecting it to their network and securing it.
 *    This will be done as it would be in an occupational scenario giving two rooms internet via eth_ and wlan_ (i.e., establishing full connectivity via hardwire and wireless.) 
 
-Here are some online resources to learn and to advance in Linux to help out here:
+Here are a few online resources to help out here in learning and advancing with Linux:
 * Machtelt Garrels' Introduction to Linux - A Hands on Guide, w/in The Linux Documentation Project guides -->http://www.tldp.org/guides.html
 * William Shotts' The Linux Command Line book 
 -->http://www.linuxcommand.org/tlcl.php
