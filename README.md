@@ -3,9 +3,9 @@ linuxsysadmin-wactc
 
 The Linux Systems Administration Study Group at SF's Western Addition Community Technology Center
 
-=============================================
+==============================================
 The Linux System Administration Study Group
-=============================================
+==============================================
 
 About the group
 
@@ -22,7 +22,6 @@ Now on Thursdays from 15:00 to 17:00
 
 
 Meeting location
-*    We are now meeting at a SECRET LOCATION. 
 *    Email maestro415@gmail.com for the coordinates and directions.
 *    For weekly announcements, check out the Noisebridge-Discuss list -->https://www.noisebridge.net/mailman/listinfo/noisebridge-discuss
 
